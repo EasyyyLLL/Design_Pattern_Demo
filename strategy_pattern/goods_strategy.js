@@ -1,0 +1,3 @@
+class DiscountStrategy {
+  calc() {}
+}
