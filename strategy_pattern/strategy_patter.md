@@ -8,3 +8,9 @@
 * Strategy：抽象Strategy类，定义了所有具体策略的公共接口。
 * ConcreteStrategy：具体Strategy类，封装了具体的算法、行为或方法，继承于抽象Strategy类，并且实现了抽象Strategy类的公共接口。
 * StrategyMap：所有策略的合集，供封装上下文Context调用；
+
+
+## 代码示例
+
+1. 表单校验——valid_strategy
+2. 购物车计价规则——goods_strategy
